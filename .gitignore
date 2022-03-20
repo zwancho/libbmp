@@ -36,3 +36,5 @@ example/checkerboard
 
 # Media
 *.bmp
+
+/build
